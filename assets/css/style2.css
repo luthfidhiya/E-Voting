@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+body {
+    background-color: rgb(212, 222, 255);
+    font-family: "Poppins", sans-serif;
+}
+
+h1 {
+    margin-top: 15px;
+    color: rgb(149, 231, 252);
+    text-shadow: 1px 2px 1px black;
+}
+
+.edit {
+    color: azure;
+    text-shadow: 1px 2px 1px rgb(77, 77, 77);
+}
+
+.card {
+    background-color: rgb(244, 255, 255);
+}
